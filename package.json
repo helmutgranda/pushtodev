@@ -23,7 +23,7 @@
             },
             {
                 "command": "extension.pushToDev",
-                "title": "Push To Dev 2"
+                "title": "Push To Dev"
             }
         ]
     },
